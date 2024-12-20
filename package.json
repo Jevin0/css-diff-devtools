@@ -3,7 +3,7 @@
   "type": "module",
   "version": "0.0.1",
   "private": true,
-  "packageManager": "pnpm@9.14.1",
+  "packageManager": "pnpm@9.15.1",
   "description": "A browser extension that compares different CSS",
   "scripts": {
     "dev": "wxt",
@@ -17,20 +17,20 @@
   },
   "dependencies": {
     "element-plus": "^2.9.1",
-    "vue": "^3.5.12",
-    "vue-i18n": "10"
+    "vue": "^3.5.13",
+    "vue-i18n": "10.0.5"
   },
   "devDependencies": {
     "@antfu/eslint-config": "^3.12.0",
-    "@types/chrome": "^0.0.280",
+    "@types/chrome": "^0.0.287",
     "@vueuse/core": "^12.0.0",
-    "@wxt-dev/module-vue": "^1.0.1",
+    "@wxt-dev/module-vue": "^1.0.2",
     "autoprefixer": "^10.4.20",
     "eslint": "^9.17.0",
     "postcss": "^8.4.49",
     "tailwindcss": "^3.4.17",
-    "typescript": "5.6.3",
+    "typescript": "5.7.2",
     "vue-tsc": "^2.1.10",
-    "wxt": "^0.19.13"
+    "wxt": "^0.19.22"
   }
 }
